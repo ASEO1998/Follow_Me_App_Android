@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CSC_492_HW4</string>
+    <string name="No_Network_text">NO NETWORK CONNECTION \n Not all data may be received</string>
+</resources>
